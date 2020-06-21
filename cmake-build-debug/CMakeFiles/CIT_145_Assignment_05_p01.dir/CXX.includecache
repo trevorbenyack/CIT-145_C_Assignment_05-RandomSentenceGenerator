@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/trevorbenyack/OneDrive - acd.ccac.edu/CCAC Current/CIT-145/CIT-145 Assignment 05_p01/main.cpp
+string.h
+-
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+math.h
+-
+ctype.h
+-
+
